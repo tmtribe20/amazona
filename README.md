@@ -46,3 +46,4 @@
     1. create Rating component
     2. Create Product component
     3. Use Rating component in Product component
+    4. Added !important to get styling working in btn-primary!

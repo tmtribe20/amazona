@@ -16,8 +16,8 @@ main {
 }
 
 .btn-primary {
-  background-color: #f0c040;
-  color: #000000;
+  background-color: #f0c040 !important;
+  color: #000000 !important;
 }
 
 .products {
