@@ -47,3 +47,7 @@
     2. Create Product component
     3. Use Rating component in Product component
     4. Added !important to get styling working in btn-primary!
+12. Create Product Details Screen
+13. fetch product from backend
+14. create 3 columns for image, info and action
+15. Used the react-helmet-aysnc to dynamically update page title.
