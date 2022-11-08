@@ -13,8 +13,8 @@ main {
   flex: 1;
 }
 .btn-primary {
-  background-color: #f0c040 !important;
-  color: #000000 !important;
+  background-color: #f0c040;
+  color: #000000;
 }
 .products {
   display: flex;
@@ -42,4 +42,8 @@ main {
 }
 .img-thumbnail {
   height: 80px;
+}
+
+.small-container {
+  max-width: 600px;
 }
